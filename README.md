@@ -1,3 +1,10 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 <h1 align="center">Hi 👋, I'm SAMIYA</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9F33F7&lines=I'm+SAMIYA;A+Front+End+Developer+;From+FRANCE)](https://git.io/typing-svg)
@@ -20,6 +27,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMIYAghb&show_icons=true&theme=radical&hide=stars&count_private=true)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username= show_owner&repo=github-readme-stats)](https://github.com/ show_owner/github-readme-stats)
+
 
 
