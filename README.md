@@ -18,5 +18,5 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMIYAghb&hide=contribs&count_private=trueshow_icons=true&theme=radical,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMIYAghb&hide=contribs&count_private=trueshow_icons=true&theme=dark,prs)
 
