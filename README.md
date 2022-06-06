@@ -16,6 +16,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized_dark)
 
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMIYAghb)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMIYAghb&hide=contribs,prs)
