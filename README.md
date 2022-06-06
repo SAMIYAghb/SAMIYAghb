@@ -19,7 +19,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMIYAghb&show_icons=true&theme=radical&hide=stars&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMIYAghb)](https://github.com/SAMIYAghb/github-readme-stats)
+/*[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMIYAghb)](https://github.com/SAMIYAghb/github-readme-stats)*/
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMIYAghb&hide=javascript,html,css,scrumAgile,php,symfony,git&langs_count=6)](https://github.com/SAMIYAghb/github-readme-stats)
+
