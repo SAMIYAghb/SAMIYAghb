@@ -20,6 +20,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMIYAghb&show_icons=true&theme=radical&hide=stars&count_private=true)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SAMIYAghb&repo=github-readme-stats show_owner)](https://github.com/SAMIYAghb/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username= show_owner&repo=github-readme-stats)](https://github.com/ show_owner/github-readme-stats)
 
 
