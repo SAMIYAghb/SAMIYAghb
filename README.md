@@ -16,7 +16,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized_dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SAMIYAghb=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMIYAghb)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SAMIYAghb=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMIYAghb&hide=contribs,prs)
 
