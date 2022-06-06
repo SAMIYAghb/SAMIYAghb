@@ -22,12 +22,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMIYAghb&show_icons=true&theme=radical&hide=stars&count_private=true)
 
 
-<a href="https://github.com/show_owner/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=show_owner&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/show_owner/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=show_owner&repo=convoychat" />
-</a>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SAMIYAghb&theme=dark)](https://git.io/streak-stats)
 
 
