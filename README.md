@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9F33F7&lines=I'm+SAMIYA;A+ReactJs+Developer+;From+FRANCE)](https://git.io/typing-svg)
 
-<h3 align="center">A Front End Developer From FRANCE</h3>
+<h3 align="center">A React Js Developer From FRANCE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiyaghb&label=Profile%20views&color=0e75b6&style=flat" alt="samiyaghb" /> </p>
 
