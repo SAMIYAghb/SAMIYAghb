@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SAMIYA</h1>
+<h1 align="center">Hi 👋, I'm SAMIYA, REACT Js Developer</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9F33F7&lines=I'm+SAMIYA;A+ReactJs+Developer+;From+FRANCE)](https://git.io/typing-svg)
 
