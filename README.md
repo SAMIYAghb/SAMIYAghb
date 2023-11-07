@@ -30,9 +30,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   
 
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMIYAghb&theme=solarized_dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMIYAghb&theme=solarized_dark)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMIYAghb&show_icons=true&theme=radical&hide=stars&count_private=true)
