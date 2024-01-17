@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm SAMIYA, REACT Js Developer</h1>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9F33F7&lines=I'm+SAMIYA;A+ReactJs+Developer+;From+FRANCE)](https://git.io/typing-svg)
 
 <h3 align="center">React Js Developer From FRANCE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiyaghb&label=Profile%20views&color=0e75b6&style=flat" alt="samiyaghb" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +24,7 @@
 <img src="https://camo.githubusercontent.com/7a84f5260722dbf9e0299f813b5da13847ed2ccb8f29d52179a363297d0ebbb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d626c61636b3f7374796c653d666c6174266c6f676f3d676974687562" height="30" data-canonical-src="https://img.shields.io/badge/-GitHub-black?style=flat&amp;logo=github" style="max-width: 100%;">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
+
 
 
 <p align="center" dir="auto">
