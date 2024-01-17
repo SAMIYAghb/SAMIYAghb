@@ -12,26 +12,21 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://react.com" target="_blank" rel="noreferrer">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<p align="left"> 
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="TailwindCSS" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="MaterailUI" width="40" height="40"/> </a> 
-  
+<p align="center" dir="auto">
+<img src="https://camo.githubusercontent.com/580de1b8e5fd95e90725165bd08c3316e589d9720fc6c89ad1d6ee21d13697ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3030373844343f7374796c653d666c6174266c6f676f3d5265616374" height="30" data-canonical-src="https://img.shields.io/badge/-React-0078D4?style=flat&amp;logo=React" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/67f8b703e51cf4619cb11fd232434055648e2fd7c3d961d6d26efb78737a6e53/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d707572706c653f7374796c653d666c6174266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" height="30" data-canonical-src="https://img.shields.io/badge/-Redux-purple?style=flat&amp;logo=redux&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/f40094060aeb428f6c2b3e5bb27fb0f551d83c2620ac92039453daa60f3e7253/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" height="30" data-canonical-src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/55c98939b6a825d7a40432a79900b39065829ad5f8cfdc717224598240758470/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3233393132303f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" height="30" data-canonical-src="https://img.shields.io/badge/-CSS-239120?style=flat&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/924d4a65a3ba72913b64272a06d8bfa53c2ec21d3531f7649e328988f7b0b014/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3233393132303f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" height="30" data-canonical-src="https://img.shields.io/badge/-HTML-239120?style=flat&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/a9d79b5d3131a0e9271f2aac825d6a152ed4428cc1bad624e8aabf31218957f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c6174266c6f676f3d676974" height="30" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat&amp;logo=git" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/7a84f5260722dbf9e0299f813b5da13847ed2ccb8f29d52179a363297d0ebbb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d626c61636b3f7374796c653d666c6174266c6f676f3d676974687562" height="30" data-canonical-src="https://img.shields.io/badge/-GitHub-black?style=flat&amp;logo=github" style="max-width: 100%;">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- 
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  
+</p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMIYAghb&theme=solarized_dark)
+<p align="center" dir="auto">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAMIYAghb&theme=solarized_dark)</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMIYAghb&show_icons=true&theme=radical&hide=stars&count_private=true)
